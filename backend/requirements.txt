@@ -1,0 +1,10 @@
+Django
+django-cors-headers
+bcrypt
+cryptography
+pyotp
+qrcode
+djangorestframework
+Pillow
+pyjwt
+gunicorn==21.2.0
