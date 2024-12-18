@@ -13,6 +13,7 @@ cd secure-file-share
 docker-compose up --build
 ```
 
-Go to "localhost" on browser
+Go to https://localhost
+
 Login - admin@gmail.com
 Password - admin
