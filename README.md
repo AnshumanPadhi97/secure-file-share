@@ -1,6 +1,10 @@
+Setup
+---
+```bash
 git clone https://github.com/AnshumanPadhi97/secure-file-share.git
 
-docker-compose up --build
+```bash
+cd secure-file-share
 
-email-admin@gmail.com
-pass-admin
+```bash
+docker-compose up --build
