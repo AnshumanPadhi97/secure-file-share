@@ -21,5 +21,7 @@ Password - admin
 Project Details
 ---------------
 Frontend - React
+
 Backend - Python (Django)
+
 Security - JWT, MFA (Google Authenticator), SSL, File Encrpytion at REST, BCRYPT password hashing
